@@ -1,5 +1,4 @@
 <?php
-teste2
 
 use Illuminate\Support\Facades\Route;
 
